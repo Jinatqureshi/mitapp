@@ -1,0 +1,167 @@
+*{
+     margin:0;
+     padding: 0;
+     list-style: none;
+     text-decoration: none;
+}
+.container{
+     width:95%;
+     margin:0 auto;
+}
+.row,.d-flex{
+     display: flex;
+}
+.col-md-4{
+     width:33.33%;
+}
+.btn-2{
+     background-color: purple;
+     color: white;
+     padding: 10px 20px;
+     border-radius: 10px;
+     border: none;
+     cursor: pointer;
+}
+.bg-p{
+     background-color: purple; 
+}
+.co-w{
+     color: white;
+}
+.box{
+     border-radius: 10px;
+     box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+     width:90%
+}
+.container-2{
+     width:80%;
+     margin: 0 auto;
+}
+.bg-orange{
+     background-color: #f8bd8b;
+}
+.col-md-2{
+     width:20%;
+}
+.bg-cream{
+     background-color: #f5ecd3;
+}
+.bg-blue{
+     background-color: #128ba8;
+}
+.fs-13{
+     font-size: 13px;
+}
+.p-35{
+     padding: 35px;
+}
+.bg-w{
+     background-color: white;
+}
+.p-10{
+     padding: 10px;
+}
+.br-10{
+     border-radius: 10px;
+     
+}
+.text-center{
+     text-align: center;
+}
+.wide{
+     width:30px
+}
+.btn{
+     background-color: #F88D34;
+     color:white;
+     padding: 10px 20px;
+     border-radius: 10px;
+     border: none;
+     font-size:18px;
+     cursor: pointer;
+}
+.col-md-6{
+     width:50%;
+}
+.co-b{
+     color: black;
+}
+.justify-end{
+     justify-content: end;
+}
+.col-md-3{
+     width:25%
+}
+.p-20{
+     padding: 20px 0;
+}
+.gap{
+     gap:30px;
+}
+.align-center{
+     align-items: center;
+}
+.side{
+     width:100%;
+}
+.side-4{
+     width:200px
+}
+.co-or{
+     color: orange;
+}
+.side-5{
+     width:37px
+}
+.btn-3{
+     border-radius: 10px;
+    border: 3px solid purple;
+    color: purple;
+    background-color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.fs-30{
+     font-size: 50px;
+}
+.btn-3:hover{
+     background-color:purple ;
+     color: white;
+     cursor: pointer;
+}
+.bg-grey{
+     background-color: #58585a;
+}
+.side-2{
+     width:70%;
+     border-radius: 16px;
+     
+}
+.side-3{
+     width:60%;
+     border-radius: 16px;
+     -webkit-border-radius: 16px;
+     -moz-border-radius: 16px;
+     -ms-border-radius: 16px;
+     -o-border-radius: 16px;
+}
+.card{
+     border: 3px solid grey;
+     border-radius: 10px;
+     -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+     -ms-border-radius: 10px;
+     -o-border-radius: 10px;
+}
+.fs-24{
+     font-size: 24px;
+}
+.high{
+     height: 600px;
+}
+.co-blue{
+     color: blue;
+}
+.mt-10{
+     margin-top: 10px;
+}
